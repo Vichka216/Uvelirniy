@@ -1,0 +1,807 @@
+.fon{
+    background-image: url(/фон.png);
+    width: 1920px;
+    height:950px ;
+    margin: auto;
+}
+body{
+    margin: auto;
+
+}
+.left_menu a{
+    text-decoration: none;
+    color: white;
+      }
+    .left_menu{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 300px;
+    
+
+    
+    
+      }
+.right_menu a{
+    text-decoration: none;
+    color: white;
+}
+.All_header_menu{
+    display: flex;
+    justify-content: space-around;
+    
+
+}
+.Logo{
+    width: 216px;
+    height: 52px;
+    color: white;
+  
+    position: absolute;
+   
+}
+.poisk{
+    display: flex;
+    justify-content: space-around;
+    padding-left: 400px;
+    
+}
+.lupa{
+    width: 18px;
+    height: 18px;
+    margin-top: 19px;
+}
+.lupa:hover{
+    transform: scale(1.2)
+}
+.right_menu{
+    display: flex;
+    justify-content: space-around;
+   margin-right: 400px;
+    
+    
+}
+.almaziiii{
+    display: flex;
+    margin-left:870px;
+    width: 19.96px;
+    height: 19.9px;
+    margin-top: -35px;
+
+    
+}
+.almaz1{
+    margin-right: 142px;
+
+}
+.left_menu{
+    margin-left: 450px;
+}
+
+.chel:hover{
+        
+    transform: scale(1.2)
+}
+
+.like:hover{
+    transform: scale(1.2)
+}
+.ash1{
+    width: 730px;
+    height: 49px;
+    font-size: 36px;
+    
+       
+}
+
+
+.put button{
+   width: 350px; 
+   height: 65px;
+   border: 1px solid white;
+  
+           
+}
+
+.put a{
+    width: 200px;
+    height: 21px;
+   font-size: 22px;
+    
+    color: white;
+    text-decoration: none;
+      
+}
+.vertikali{
+    width: 1110px;
+    height: 60px;
+    display: flex;
+   justify-content: space-between;
+   margin: auto;
+   margin-top: 40px;
+    
+}
+.katalog{
+    width: 1110px;
+    height: 851px;
+    
+    margin: auto;
+   
+   
+}
+.foto_rjad1{
+    display: flex;
+    justify-content: space-around;
+    
+        
+}
+
+.kolca{
+  transition: 1s;
+}
+
+
+.kolca:hover{
+  transform: scale(1.2);
+
+}
+.sergi{
+  transition: 1s;
+}
+
+
+.sergi:hover{
+  transform: scale(1.2);
+
+}
+.podves{
+  transition: 1s;
+}
+
+
+.podves:hover{
+  transform: scale(1.2);
+
+}
+.zaponki{
+  transition: 1s;
+}
+
+
+.zaponki:hover{
+  transform: scale(1.2);
+
+}
+.brasleti{
+  transition: 1s;
+}
+
+
+.brasleti:hover{
+  transform: scale(1.2);
+
+}
+.chasi{
+  transition: 1s;
+}
+
+
+.chasi:hover{
+  transform: scale(1.2);
+
+}
+
+
+
+.foto_rjad1 p{
+ color: white;
+    
+}
+.foto_rjad2{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 15px;
+    
+
+
+}
+.foto_rjad2 p{
+  color: white;
+     
+ }
+.belii_fon{
+    background-color: white;
+    width:1920px ;
+    height: 1000px;
+    margin: auto;
+    margin-top: 100px;
+    
+}
+.chernii_fon{
+    background-image: url(/CHERNii_fon.png);
+    width: 1920px;
+    height: 541px;
+    margin: auto;
+    
+}
+.txt{
+margin-left: 650px;
+padding-top: 30px;
+
+
+}
+.txt p{
+    color: white;
+}
+.txt a{
+color: black;
+text-decoration: none;
+font-size: 18px;
+width: 154px;
+height: 21px;
+
+
+
+
+}
+.belii_fon2{
+    width:1920px ;
+    height: 1000px;
+    background-color: white;
+    margin: auto;
+
+}
+.knopki{
+  width: 1110px;
+  height: 61px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom:70px;
+  
+  
+}
+
+
+.knopki a{
+  width: 92px;
+  height:21px ;
+  font-size: 18px;
+  text-decoration: none;
+  color: black;
+
+}
+.svadba p{
+    color: white;
+   
+}
+.svad_foto{
+    display: flex;
+    justify-content: space-around;
+}
+.svadba{
+    width:1110px ;
+    height: 626px;
+    margin: auto;
+    padding-top: 130px;
+}
+.svad_foto p{
+  font-size: 21px;
+
+
+}
+.ODIN{
+  transition: 1s;
+}
+
+
+.ODIN:hover{
+  transform: scale(1.2);
+
+}
+.DVA{
+  transition: 1s;
+}
+
+
+.DVA:hover{
+  transform: scale(1.2);
+
+}
+.TRI{
+  transition: 1s;
+}
+
+
+.TRI:hover{
+  transform: scale(1.2);
+
+}
+.qw{
+  transition: 1s;
+}
+
+
+.qw:hover{
+  transform: scale(1.2);
+
+}
+.we{
+  transition: 1s;
+}
+
+
+.we:hover{
+  transform: scale(1.2);
+
+}
+.er{
+  transition: 1s;
+}
+
+
+.er:hover{
+  transform: scale(1.2);
+
+}
+.rt{
+  transition: 1s;
+}
+
+
+.rt:hover{
+  transform: scale(1.2);
+
+}
+.ty{
+  transition: 1s;
+}
+
+
+.ty:hover{
+  transform: scale(1.2);
+
+}
+.yu{
+  transition: 1s;
+}
+
+
+.yu:hover{
+  transform: scale(1.2);
+
+}
+.streli_bukvi1 a{
+  
+  font-size: 18px;
+  transition: 1s;
+  color: white;
+}
+.streli_bukvi1 a:hover{
+  color: blueviolet;
+  font-size: 25px;
+  transform: scale(1.2);
+}
+
+.streli_bukvi2 a{
+  
+  font-size: 18px;
+  transition: 1s;
+  color: white;
+}
+.streli_bukvi2 a:hover{
+  color: blueviolet;
+  font-size: 25px;
+  transform: scale(1.2);
+}
+
+.streli_bukvi3 a{
+  
+  font-size: 18px;
+  transition: 1s;
+  color: white;
+}
+.streli_bukvi3 a:hover{
+  color: blueviolet;
+  font-size: 25px;
+  transform: scale(1.2);
+}
+
+.pol_ssilki a{
+  
+  
+  transition: 1s;
+  color: white;
+}
+.pol_ssilki a:hover{
+  color: blueviolet;
+  font-size: 18px;
+  transform: scale(1.2);
+}
+.utub img{
+  transition: 1s;
+}
+.utub img:hover{
+  background-color: blueviolet;
+  transform: scale(1.2);
+}
+
+.vk img{
+  transition: 1s;
+}
+.vk img:hover{
+  background-color: blueviolet;
+  transform: scale(1.2);
+}
+.fase img{
+  transition: 1s;
+}
+.fase img:hover{
+  background-color: blueviolet;
+  transform: scale(1.2);
+}
+.tel img{
+  transition: 1s;
+}
+.tel img:hover{
+  background-color: blueviolet;
+  transform: scale(1.2);
+}
+.e0 img{
+  transition: 1s;
+}
+.e0 img:hover{
+ background-color: blueviolet;
+  transform: scale(1.2);
+}
+
+
+
+
+
+
+
+.www a{
+    width: 255px;
+    height: 51px;
+    font-size: 22px;
+    color: white;
+    text-decoration: none;
+
+    
+}
+.www button{
+    width: 350px; 
+    height: 65px;
+    border: 1px solid white;
+    margin-top: 150px;
+    margin-left: 400px;
+    
+    
+    
+
+}
+.belii_fon3{
+    width:1920px ;
+    height: 1000px;
+    background-color: white;
+    margin: auto;
+    
+}
+
+.foto_line{
+  margin-bottom: -4px;
+
+
+
+}
+.video{
+    width: 1110px;
+    height: 745px;
+    margin: auto;
+    padding-top: 100px;
+
+}
+.words{
+    color: black;
+   
+}
+.foto_line{
+    display: flex;
+}
+.foto_line1{
+    display: flex;
+}
+.black_fon2{
+    background-image: url(/black_fon2.png);
+    width: 1920px;
+    height: 478px;
+    margin: auto;
+   
+}
+.govor p{
+    color: white;
+}
+.streli_bukvi1{
+    display: flex;
+   justify-content: space-around;
+   
+   
+
+    
+}
+.streli_bukvi2{
+    display: flex;
+    justify-content: space-around;
+}
+.streli_bukvi3{
+    display: flex;
+    justify-content: space-around;
+}
+.knopki_strelki{
+    width: 245px;
+    height: 105px;
+    display: inline-block;
+    margin-left:300px;
+    margin-top: 73px;
+
+    
+    
+}
+.knopki_strelki a{
+  color: white;
+  text-decoration: none;
+
+
+
+
+}
+.streli_bukvi1 img{
+  width: 17px;
+  height: 17px;
+  margin-top: 20px;
+  margin-right: 50px;
+  
+
+
+}
+.streli_bukvi2 img{
+  width: 17px;
+  height: 17px;
+  margin-top: 20px;
+  
+  
+
+
+}
+.streli_bukvi3 img{
+  width: 17px;
+  height: 17px;
+  margin-top: 20px;
+
+
+}
+.govor{
+    display: flex;
+    justify-content: space-around;
+}
+.innputt{
+    display: flex;
+}
+.tel1{
+    display: flex;
+   
+    width: 20px;
+    height: 20px;
+    
+  }
+  .tel1 p{
+    margin-top: 5px;
+    
+  }
+  .tel2{
+    display: flex;
+    justify-content: space-around;
+    width: 20px;
+    height: 20px;
+  }
+  .tel2 p{
+    margin-top: 5px;
+  }
+  .tel3{
+    display: flex;
+    width: 20px;
+    height: 20px;
+  }
+  .tel3 p{
+    margin-top: 5px;
+  }
+  
+  .pol_ssilki{
+    color:black;
+    width: 255px;
+    height: 194px;
+
+  }
+  .pol_ssilki a{
+    color: black;
+    text-decoration: none;
+  }
+  .shapka{
+    display: flex;
+    justify-content: space-around;
+    width: 1110px;
+    height: 295px;
+    margin: auto;
+  }
+  .vesniz{
+    display: flex;
+    justify-content: space-around;
+  }
+  .karti{
+    display: flex;
+    
+  }
+  .socsetii{
+    display: flex;
+    justify-content: space-around;
+  }
+  .oplata{
+    width: 255px;
+    height: 179px;
+  }
+  .kontakti{
+    width: 295px;
+    height: 158px;
+  }
+  .socseti{
+    width: 255px;
+    height: 176px;
+  }
+  .dogovor a{
+    color: black;text-decoration: none;
+  }
+  .kontr a{
+color: black;text-decoration: none;
+  }
+  
+  .innputt{
+    border: 1px solid white;
+    width: 448px;
+    height: 113px;
+    color: white;
+    margin-top: 100px;
+    margin-right: 100px;
+  }
+  .inputt22{
+    width: 418px;
+    height: 85px;
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 15px;
+   
+    
+  }
+  .kopppp{
+    display: flex;
+    justify-content: space-around;
+  }
+
+  .kopppp button{
+    margin-top: 18px;
+    width: 150px;
+    height: 56px;
+    background-color:#333333 ;
+    color: white;
+    font-size: 15px;
+    
+  }
+  .kopppp input{
+    width: 200px;
+    height: 50px;
+    margin-top: 6px;
+    font-size: 15px;
+
+  }
+
+  .kopppp a{
+    color: white;
+    text-decoration: none;
+  }
+.shapka{
+  padding-top: 40px;
+}
+
+.knopki button{
+  color: black;
+  background-color: white;
+}
+.knopki button:hover{
+  background: black;
+  color: white;
+  
+  box-shadow: inset 0 0 0 3px #ffffff;
+}
+.knopki button a:hover{
+  color: white;
+}
+
+
+
+.put button{
+  color: white;
+  background-color: #333333;
+}
+.put button:hover{
+  background-color: white;
+  color: #333333;
+  border: 3px solid black;
+  box-shadow: inset 0 0 0 3px #ffffff;
+  
+}
+.put button a:hover{
+  color: #333333;
+}
+
+.txt button{
+  color: black;
+  background-color: white;
+}
+.txt button:hover{
+  background: black;
+  color: white;
+  
+  box-shadow: inset 0 0 0 3px #ffffff;
+}
+.txt button a:hover{
+  color: white;
+}
+
+
+
+.www button{
+  color: white;
+  background-color: #333333;
+}
+.www button:hover{
+  background-color: white;
+  color: #333333;
+  border: 3px solid black;
+  box-shadow: inset 0 0 0 3px #ffffff;
+  
+}
+.www button a:hover{
+  color: #333333;
+}
+
+
+
+
+.kopppp button{
+  color: white;
+  background-color: #333333;
+}
+.kopppp button:hover{
+  background-color: rgb(223, 29, 29);
+  color: #333333;
+  border: 3px solid black;
+  box-shadow: inset 0 0 0 3px #ffffff;
+  
+}
+.kopppp button a:hover{
+  color: #333333;
+}
+
+.svad_foto a{
+  text-decoration: none;
+  color: white;
+}
+.svad_foto a:hover{
+  color: lightseagreen;
+  
+}
+.kategorii_foto a{
+  text-decoration: none;
+  color: white;
+}.kategorii_foto a:hover{
+  
+  color: lightseagreen;
+}
